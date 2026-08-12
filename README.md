@@ -30,7 +30,7 @@ To speed-up simulations (or refine precision) you can tweak the following Monte 
 - `N_MC`: number of Monte Carlo iterations per optical modulation amplitude value (OMA) 
 
 ## Output Examples
-Here are some examples of the results achieved with these scripts (figures are taken from [3]):
+Here are some examples of the results achieved with these scripts (figures are taken from [\[3\]](#3)):
 - **Example 2**
 
 ![SNR-SER](img/SNR_SER.png)
